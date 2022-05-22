@@ -1,4 +1,5 @@
 # Udacity_DS_Nanodegree Project 1
+## Blog
 https://medium.com/@jiajiansylarguo/ecommerce-rfm-segmentation-and-customer-analysis-9096c24a8a5f
 
 # Goal of this Project
