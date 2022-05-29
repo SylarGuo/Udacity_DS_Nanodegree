@@ -7,29 +7,27 @@ This Disaster Response Pipeline project evaluates disaster data from Figure Ei
 app    
 
 | - template    
-| |- master.html # main page of web app    
-| |- go.html # classification result page of web app    
+| |- master.html # main page file of web app    
+| |- go.html # classification result page file of web app    
 |- run.py # Flask file that runs app    
 
 
 data    
 
-|- disaster_categories.csv # data to process    
-|- disaster_messages.csv # data to process    
+|- disaster_categories.csv # project dataset
+|- disaster_messages.csv # project dataset   
 |- process_data.py # data cleaning pipeline    
-|- InsertDatabaseName.db # database to save clean data to     
+|- InsertDatabaseName.db # database to save clean data   
 
 
 models   
 
 |- train_classifier.py # machine learning pipeline     
-|- classifier.pkl # saved model     
+|- classifier.pkl # saved trained model     
 
 
 README.md    
 
-### Components
-There are three components I completed for this project. 
 
 #### 1. ETL Pipeline
 A Python script, `process_data.py`, writes a data cleaning pipeline that:
