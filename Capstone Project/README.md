@@ -14,4 +14,4 @@ In this notebook, we are going to answer the following questions:
 3.   How do we target them accordingly with different segements?
 
 ## Libraries Used
-numpy, pandas, seaborn, matplotlib.pyplot, matplotlib, scikitplot, scipy, sklearn
+numpy, pandas, seaborn, matplotlib.pyplot, matplotlib, scikitplot, scipy, sklearn, umap
